@@ -22,7 +22,9 @@ Hey there! I'm Aagam Shah, a dynamic and versatile software developer on a missi
 - **🦀 Rustic Vibes**: Started the year by diving into Rust, adding another powerful language to my arsenal.
 - **🚀 Coding Symphony**: Completed impactful projects in Python, while also delving into the art of UI/UX design using Figma.
 - **🏆 Hackathon Maestro**: Led a team to the 6th position in the Smart India Hackathon (SIH), where we were waitlisted for the Ministry of Defence problem statement. Also, participated in ICPC, pushing the boundaries of innovation.
+- **📦 NPM Package Maven**: Released my first NPM Package, an open-source contribution to the developer community.
 
 ## Let's Build Together!
 
-I'm not just a developer; I'm a collaborator and innovator. If you're passionate about cutting-edge projects and exploring the ever-evolving tech landscape, let's connect! Reach out to me on LinkedIn: https://www.linkedin.com/in/aagam-shah-1b94ba209/ , and let's embark on the next coding adventure together. The future awaits! 🌌✨
+I'm not just a developer; I'm a collaborator and innovator. If you're passionate about cutting-edge projects and exploring the ever-evolving tech landscape, let's connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/aagam-shah-1b94ba209/), and let's embark on the next coding adventure together. The future awaits! 🌌✨
+
