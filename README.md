@@ -80,43 +80,6 @@ I build across the stack, the atmosphere, and the edge.
 
 ---
 
-## `$ cat /projects/featured.json`
-
-```json
-[
-  {
-    "name": "Aethera",
-    "tag": "AI · Next.js · Prisma",
-    "description": "Natural language → full-stack Next.js app generator. 
-                    Codegen for pages, API routes, DB schema, auth & storage.",
-    "cool_factor": "You describe an app. It builds one."
-  },
-  {
-    "name": "UAS Swarm",
-    "tag": "Python · OpenCV · MAVLink · Raspberry Pi",
-    "description": "Dual-UAV swarm with real-time video telemetry, onboard 
-                    CV inference, and autonomous GPS via LUA scripting.",
-    "cool_factor": "Two drones. One brain. Fully autonomous."
-  },
-  {
-    "name": "ReelForge",
-    "tag": "AI SaaS · Next.js · AWS",
-    "description": "Upload long-form video → auto-generate short viral clips 
-                    with subtitles. Built for content creators at scale.",
-    "cool_factor": "Your hour-long video becomes 10 viral shorts."
-  },
-  {
-    "name": "Instagram DM Automation",
-    "tag": "Next.js · OpenAI · Webhooks · Prisma",
-    "description": "AI-powered DM system that converts comments & keywords 
-                    into conversations. Visual automation builder + mini CRM.",
-    "cool_factor": "Your Instagram sells while you sleep."
-  }
-]
-```
-
----
-
 ## `$ tail -f /var/log/career.log`
 
 ```
