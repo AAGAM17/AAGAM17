@@ -27,12 +27,11 @@ name        : Aagam Shah
 location    : Mumbai, MH (open to relocate)
 degree      : B.Tech Mechanical Engineering — DJSCE (2023–2027)
 status      : Building things that fly, think, and scale
-obsessions  : [AI systems, autonomous flight, full-stack products, hackathons]
+obsessions  : [AI autonomous systems, autonomous flight, full-stack products, hackathons]
 ```
 
 I write code that powers aircraft in the sky and products on your phone.  
-From autonomous landing systems on drones to LLM-driven SaaS platforms —  
-I build across the stack, the atmosphere, and the edge.
+From autonomous landing systems on UAV to LLM-driven SaaS platforms I build across the stack, the atmosphere, and the edge.
 
 ---
 
@@ -65,10 +64,14 @@ I build across the stack, the atmosphere, and the edge.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Embedded & Aerospace**
